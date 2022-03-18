@@ -1,0 +1,15 @@
+/Users/adamantos/Projects/SpojovySeznam/SpojovySeznam/bin/Debug/net6.0/SpojovySeznam
+/Users/adamantos/Projects/SpojovySeznam/SpojovySeznam/bin/Debug/net6.0/SpojovySeznam.deps.json
+/Users/adamantos/Projects/SpojovySeznam/SpojovySeznam/bin/Debug/net6.0/SpojovySeznam.runtimeconfig.json
+/Users/adamantos/Projects/SpojovySeznam/SpojovySeznam/bin/Debug/net6.0/SpojovySeznam.dll
+/Users/adamantos/Projects/SpojovySeznam/SpojovySeznam/bin/Debug/net6.0/ref/SpojovySeznam.dll
+/Users/adamantos/Projects/SpojovySeznam/SpojovySeznam/bin/Debug/net6.0/SpojovySeznam.pdb
+/Users/adamantos/Projects/SpojovySeznam/SpojovySeznam/obj/Debug/net6.0/SpojovySeznam.csproj.AssemblyReference.cache
+/Users/adamantos/Projects/SpojovySeznam/SpojovySeznam/obj/Debug/net6.0/SpojovySeznam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adamantos/Projects/SpojovySeznam/SpojovySeznam/obj/Debug/net6.0/SpojovySeznam.AssemblyInfoInputs.cache
+/Users/adamantos/Projects/SpojovySeznam/SpojovySeznam/obj/Debug/net6.0/SpojovySeznam.AssemblyInfo.cs
+/Users/adamantos/Projects/SpojovySeznam/SpojovySeznam/obj/Debug/net6.0/SpojovySeznam.csproj.CoreCompileInputs.cache
+/Users/adamantos/Projects/SpojovySeznam/SpojovySeznam/obj/Debug/net6.0/SpojovySeznam.dll
+/Users/adamantos/Projects/SpojovySeznam/SpojovySeznam/obj/Debug/net6.0/ref/SpojovySeznam.dll
+/Users/adamantos/Projects/SpojovySeznam/SpojovySeznam/obj/Debug/net6.0/SpojovySeznam.pdb
+/Users/adamantos/Projects/SpojovySeznam/SpojovySeznam/obj/Debug/net6.0/SpojovySeznam.genruntimeconfig.cache

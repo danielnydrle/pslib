@@ -1,0 +1,15 @@
+C:\SCHOOL\PRG\MultithreadApp\MultithreadApp\bin\Debug\net6.0\MultithreadApp.exe
+C:\SCHOOL\PRG\MultithreadApp\MultithreadApp\bin\Debug\net6.0\MultithreadApp.deps.json
+C:\SCHOOL\PRG\MultithreadApp\MultithreadApp\bin\Debug\net6.0\MultithreadApp.runtimeconfig.json
+C:\SCHOOL\PRG\MultithreadApp\MultithreadApp\bin\Debug\net6.0\MultithreadApp.dll
+C:\SCHOOL\PRG\MultithreadApp\MultithreadApp\bin\Debug\net6.0\ref\MultithreadApp.dll
+C:\SCHOOL\PRG\MultithreadApp\MultithreadApp\bin\Debug\net6.0\MultithreadApp.pdb
+C:\SCHOOL\PRG\MultithreadApp\MultithreadApp\obj\Debug\net6.0\MultithreadApp.csproj.AssemblyReference.cache
+C:\SCHOOL\PRG\MultithreadApp\MultithreadApp\obj\Debug\net6.0\MultithreadApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\SCHOOL\PRG\MultithreadApp\MultithreadApp\obj\Debug\net6.0\MultithreadApp.AssemblyInfoInputs.cache
+C:\SCHOOL\PRG\MultithreadApp\MultithreadApp\obj\Debug\net6.0\MultithreadApp.AssemblyInfo.cs
+C:\SCHOOL\PRG\MultithreadApp\MultithreadApp\obj\Debug\net6.0\MultithreadApp.csproj.CoreCompileInputs.cache
+C:\SCHOOL\PRG\MultithreadApp\MultithreadApp\obj\Debug\net6.0\MultithreadApp.dll
+C:\SCHOOL\PRG\MultithreadApp\MultithreadApp\obj\Debug\net6.0\ref\MultithreadApp.dll
+C:\SCHOOL\PRG\MultithreadApp\MultithreadApp\obj\Debug\net6.0\MultithreadApp.pdb
+C:\SCHOOL\PRG\MultithreadApp\MultithreadApp\obj\Debug\net6.0\MultithreadApp.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8ab0ae99-16b3-4464-8dd3-cd3a633d1605": {
+      "ProjectGuid": "8ab0ae99-16b3-4464-8dd3-cd3a633d1605",
+      "DisplayName": "MemoryCounter",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

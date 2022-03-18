@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "54013a33-d455-44f7-ba44-758e469f3572": {
+      "ProjectGuid": "54013a33-d455-44f7-ba44-758e469f3572",
+      "DisplayName": "MultithreadApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

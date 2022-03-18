@@ -1,0 +1,15 @@
+C:\SCHOOL\PRG\NV1\NV1\obj\Debug\net6.0\NV1.csproj.AssemblyReference.cache
+C:\SCHOOL\PRG\NV1\NV1\obj\Debug\net6.0\NV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\SCHOOL\PRG\NV1\NV1\obj\Debug\net6.0\NV1.AssemblyInfoInputs.cache
+C:\SCHOOL\PRG\NV1\NV1\obj\Debug\net6.0\NV1.AssemblyInfo.cs
+C:\SCHOOL\PRG\NV1\NV1\obj\Debug\net6.0\NV1.csproj.CoreCompileInputs.cache
+C:\SCHOOL\PRG\NV1\NV1\bin\Debug\net6.0\NV1.exe
+C:\SCHOOL\PRG\NV1\NV1\bin\Debug\net6.0\NV1.deps.json
+C:\SCHOOL\PRG\NV1\NV1\bin\Debug\net6.0\NV1.runtimeconfig.json
+C:\SCHOOL\PRG\NV1\NV1\bin\Debug\net6.0\NV1.dll
+C:\SCHOOL\PRG\NV1\NV1\bin\Debug\net6.0\ref\NV1.dll
+C:\SCHOOL\PRG\NV1\NV1\bin\Debug\net6.0\NV1.pdb
+C:\SCHOOL\PRG\NV1\NV1\obj\Debug\net6.0\NV1.dll
+C:\SCHOOL\PRG\NV1\NV1\obj\Debug\net6.0\ref\NV1.dll
+C:\SCHOOL\PRG\NV1\NV1\obj\Debug\net6.0\NV1.pdb
+C:\SCHOOL\PRG\NV1\NV1\obj\Debug\net6.0\NV1.genruntimeconfig.cache

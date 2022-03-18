@@ -1,0 +1,15 @@
+C:\SCHOOL\PRG\MemoryCounter\MemoryCounter\obj\Debug\net6.0\MemoryCounter.csproj.AssemblyReference.cache
+C:\SCHOOL\PRG\MemoryCounter\MemoryCounter\obj\Debug\net6.0\MemoryCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\SCHOOL\PRG\MemoryCounter\MemoryCounter\obj\Debug\net6.0\MemoryCounter.AssemblyInfoInputs.cache
+C:\SCHOOL\PRG\MemoryCounter\MemoryCounter\obj\Debug\net6.0\MemoryCounter.AssemblyInfo.cs
+C:\SCHOOL\PRG\MemoryCounter\MemoryCounter\obj\Debug\net6.0\MemoryCounter.csproj.CoreCompileInputs.cache
+C:\SCHOOL\PRG\MemoryCounter\MemoryCounter\bin\Debug\net6.0\MemoryCounter.exe
+C:\SCHOOL\PRG\MemoryCounter\MemoryCounter\bin\Debug\net6.0\MemoryCounter.deps.json
+C:\SCHOOL\PRG\MemoryCounter\MemoryCounter\bin\Debug\net6.0\MemoryCounter.runtimeconfig.json
+C:\SCHOOL\PRG\MemoryCounter\MemoryCounter\bin\Debug\net6.0\MemoryCounter.dll
+C:\SCHOOL\PRG\MemoryCounter\MemoryCounter\bin\Debug\net6.0\ref\MemoryCounter.dll
+C:\SCHOOL\PRG\MemoryCounter\MemoryCounter\bin\Debug\net6.0\MemoryCounter.pdb
+C:\SCHOOL\PRG\MemoryCounter\MemoryCounter\obj\Debug\net6.0\MemoryCounter.dll
+C:\SCHOOL\PRG\MemoryCounter\MemoryCounter\obj\Debug\net6.0\ref\MemoryCounter.dll
+C:\SCHOOL\PRG\MemoryCounter\MemoryCounter\obj\Debug\net6.0\MemoryCounter.pdb
+C:\SCHOOL\PRG\MemoryCounter\MemoryCounter\obj\Debug\net6.0\MemoryCounter.genruntimeconfig.cache

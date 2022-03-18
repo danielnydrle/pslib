@@ -1,0 +1,54 @@
+:root {
+	--header-link: normal normal 600 1.2rem "Open Sans", sans-serif;
+	--copyright: normal normal 400 0.8rem "Open Sans", sans-serif;
+}
+header {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+	height: 100vh;
+	width: 20vw;
+	background-color: deepskyblue;
+	text-align: center;
+	color: white;
+}
+.App.light header {
+	background-color: deepskyblue;
+}
+.App.dark header {
+	background-color: darkslateblue;
+}
+header>a, header .left-right-container a {
+	padding: 50px 0;
+	font-family: "Open Sans" !important;
+}
+.left-right-container {
+	display: flex;
+	justify-content: stretch;
+	align-items: stretch;
+	width: 100%;
+	border-bottom: 2px solid skyblue;
+}
+.App.dark .left-right-container {
+	border-bottom: 2px solid slateblue;
+}
+header a {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font: var(--header-link);
+	text-decoration: none;
+	width: 100%;
+	color: white;
+}
+.App.light header a:hover {
+	background-color: skyblue;
+}
+.App.dark header a:hover {
+	background-color: slateblue;
+}
+header .copyright {
+	margin-top: 50px;
+	font: var(--copyright);
+}
